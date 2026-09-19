@@ -1,6 +1,6 @@
 title: "Duc BANH"
-email: manbanh@free.fr
-location: Cergy, 95800
+email: "manbanh@free.fr"
+location: "Cergy, 95800"
 description: "code@free.fr"
 show_downloads: true
 theme: jekyll-theme-minimal
