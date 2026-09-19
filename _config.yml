@@ -1,1 +1,5 @@
-
+title: "New cv"
+description: "Développeur web"
+show_downloads: true
+theme: jekyll-theme-minimal
+lang: fr
